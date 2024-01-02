@@ -1,1 +1,2 @@
-<p>start </p><code>npm start</code>
+<p>start </p>
+<code>node index</code>
